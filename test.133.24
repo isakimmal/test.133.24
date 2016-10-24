@@ -1,0 +1,4 @@
+a=int(int(enter the number)
+b=int(int(enter the another number)
+if:a>b(enter that a>b)
+else:b>a(enter the b>a)
